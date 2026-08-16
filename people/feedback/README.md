@@ -12,8 +12,12 @@ October.
   [performance reviews](../performance-review/); day-to-day feedback comes
   through code review and sprint ceremonies and should never wait for the
   quarter.
-- **Anonymity.** If you prefer to give feedback anonymously, say so to a
-  founder you trust and it will be handled without attribution.
+- **Confidentiality.** If you prefer your feedback handled without
+  attribution, say so to a founder you trust: the founder you tell will
+  know it came from you, and will carry it forward without naming you.
+  That is confidentiality, not anonymity — we are honest about the
+  difference, and at our size a truly anonymous channel would be thin
+  cover anyway.
 
 If quarterly feedback surfaces something worth changing, it gets an owner
 and lands in this handbook — that is the loop working.

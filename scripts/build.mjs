@@ -4,7 +4,7 @@
 // the same parity rule the website repos live by.
 //
 //   node scripts/build.mjs      → writes _site/
-import { execSync } from 'node:child_process';
+import { execFileSync } from 'node:child_process';
 import { cpSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { marked } from 'marked';
@@ -19,6 +19,23 @@ const DESCRIPTION =
   'How Cuesoft works — the company handbook and policies.';
 // Sections in reading order; anything not listed sorts after, alphabetically.
 const SECTION_ORDER = ['general', 'people', 'engineering', 'policies', 'leadership', 'credits'];
+// Routes that moved or retired: each key becomes a redirect stub so old
+// bookmarks and inbound links keep landing.
+const REDIRECTS = {
+  'people-operations/blogs': 'people/blogs',
+  'people-operations/company-assets': 'people/company-assets',
+  'people-operations/feedback': 'people/feedback',
+  'people-operations/onboarding-offboarding': 'people/onboarding-offboarding',
+  'people-operations/performance-review': 'people/performance-review',
+  'people-operations/standups': 'people/standups',
+  'people-operations/violation': 'people/violation',
+  'people-operations/hubstaff': 'people/engagement-types',
+  'people-operations/salary': 'people/engagement-types',
+  'people-operations/leave': 'people/time-away',
+  'people-operations/resignation': 'people/engagement-types',
+  'general/paycheck': 'people/engagement-types',
+  'engineering/jira': 'engineering/project-management',
+};
 
 const template = readFileSync(path.join(ROOT, 'templates/page.html'), 'utf8');
 
@@ -110,8 +127,11 @@ function tocFor(html) {
 
 function lastUpdated(page) {
   try {
+    // Argument array, not a shell: page paths never reach an interpreter.
     const file = path.join(ROOT, page, 'README.md');
-    const date = execSync(`git log -1 --format=%as -- "${file}"`, { cwd: ROOT }).toString().trim();
+    const date = execFileSync('git', ['log', '-1', '--format=%as', '--', file], { cwd: ROOT })
+      .toString()
+      .trim();
     return date ? `Last updated ${date}.` : '';
   } catch {
     return '';
@@ -142,7 +162,11 @@ writeFileSync(path.join(OUT, '.nojekyll'), '');
 const hasSidebar = pages.some((p) => p !== '');
 for (const page of pages) {
   const { markdown, title } = meta.get(page);
-  const body = marked.parse(markdown);
+  // Tables scroll inside a wrapper instead of widening the page on phones.
+  const body = marked
+    .parse(markdown)
+    .replaceAll('<table>', '<div class="table-wrap"><table>')
+    .replaceAll('</table>', '</table></div>');
   const root = page ? '../'.repeat(page.split('/').length) : './';
   // Crumbs carry the same names the sidebar shows: a page's H1 where the
   // segment is a page, the section label otherwise — and only pages link.
@@ -162,7 +186,12 @@ for (const page of pages) {
   }
 
   const html = template
-    .replaceAll('{{doc_title}}', SITE.includes(title) ? SITE : `${title} | ${SITE}`)
+    .replaceAll(
+      '{{doc_title}}',
+      // When the page title and site name overlap, the longer one stands
+      // alone — never "The Cuesoft Handbook | Cuesoft Handbook".
+      SITE.includes(title) ? SITE : title.includes(SITE) ? title : `${title} | ${SITE}`,
+    )
     .replaceAll('{{site}}', SITE)
     .replaceAll('{{description}}', DESCRIPTION)
     .replaceAll('{{root}}', root)
@@ -183,4 +212,14 @@ for (const page of pages) {
   writeFileSync(target, html);
 }
 
-console.log(`built ${pages.length} page(s) into _site/`);
+for (const [from, to] of Object.entries(REDIRECTS)) {
+  const target = path.join(OUT, from, 'index.html');
+  mkdirSync(path.dirname(target), { recursive: true });
+  const dest = `/${to}/`;
+  writeFileSync(
+    target,
+    `<!doctype html><html lang="en"><head><meta charset="utf-8" /><meta http-equiv="refresh" content="0; url=${dest}" /><link rel="canonical" href="${dest}" /><title>Moved</title></head><body><p>This page moved to <a href="${dest}">${dest}</a>.</p></body></html>\n`,
+  );
+}
+
+console.log(`built ${pages.length} page(s) into _site/ (+${Object.keys(REDIRECTS).length} redirect stub(s))`);
