@@ -63,10 +63,12 @@ function sidebarFor(current) {
     if (!sections.has(section)) sections.set(section, []);
     sections.get(section).push(page);
   }
-  // Top-level single pages (e.g. leadership/) group under their own name.
+  // Top-level pages group under their own name; a section's own index page
+  // leads its section (e.g. policies/ atop the Policies group).
   for (const page of pages) {
     if (!page || page.includes('/')) continue;
-    if (!sections.has(page)) sections.set(page, [page]);
+    if (sections.has(page)) sections.get(page).unshift(page);
+    else sections.set(page, [page]);
   }
   if (sections.size === 0) return '';
 
