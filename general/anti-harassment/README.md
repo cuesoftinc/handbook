@@ -1,27 +1,32 @@
 # Anti-Harassment Policy
 
-## TL;DR
+## The short version
 
-If you: 
-
-- Sexually Harass
-- Induce hate/ resentment
-- Discrimination
-- Bullying / Workplace Violence
-
-You'll be relieved of your duties with immediate effect. We'll also report you to the appropriate law enforcement if the issue is serious. Please send an email to admin@cuesoft.io if you're the victim. 
-
-## Introduction
-
-Everyone at Cuesoft has a major responsibility to prevent and make sure harassment of any kind does not occur in at work place. Working remotely as is obtained here results in the majority of our interactions being video calls, texts, and written communication such as email or shared documents. No matter what the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Should you become subjected to or witness any form of harassment or behavior that violates this policy or our [company values](/values/README.md), please report the incident directly to Chief Operations Officer immediately for a thorough investigation.
+Sexual harassment, hate speech, discrimination, bullying and workplace
+violence end your engagement with Cuesoft immediately. Where the conduct is
+serious, we also report it to the appropriate law enforcement. If you are
+the victim of or a witness to any of these, email
+[hello@cuesoft.io](mailto:hello@cuesoft.io) or report directly to the COO.
+If the report concerns the COO or whoever reads that inbox, report directly
+to the CEO or any other founder.
 
 ## Scope
 
-This policy applies to all team members employed by any entity of Cuesoft, whether contractor or employee, in all locations. There are local labor laws in every country and in the case of the Nigeria, state laws, that must be followed when handling, reporting and investigating incidents of harassment. The local authority will be called upon to ensure compliance and the appropriate legal processes and procedures are followed. 
+This policy applies to everyone working with any Cuesoft entity — founders,
+contractors and interns, in every location. Because we work remotely, most
+interaction is calls, chat and written collaboration; the standard is the
+same in every medium: contribute to an inclusive, collaborative environment
+and respect each other at all times.
 
-All individual contributors, managers, and leaders will be subject to disciplinary action, up to and including termination, for any act of harassment they commit.
+Local law applies on top of this policy. Incidents are investigated
+promptly and discreetly, the affected person is kept informed, and where
+local legal processes apply, they are followed.
 
-Types/Modes of Harassment.....
+## What happens on report
 
-
-
+1. Report to the COO or [hello@cuesoft.io](mailto:hello@cuesoft.io); a
+   founder not involved in the incident handles it.
+2. The facts are gathered from everyone involved, in confidence.
+3. Action follows the finding — up to and including immediate termination
+   of the engagement and, where warranted, referral to law enforcement.
+   Harassment has no violation ladder and no second chance.
