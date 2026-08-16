@@ -1,3 +1,6 @@
 # Credits
 
-This handbook is written by @mubiyn and is inspired by [GitLab Employee Handbook](https://about.gitlab.com/handbook/). You can send Pull Requests if you need a review of policy/policies or notice any discrepancy.  
+This handbook was started by [@mubiyn](https://github.com/mubiyn) and is
+inspired by the [GitLab Handbook](https://handbook.gitlab.com/). It is
+maintained by the founders and everyone who works with Cuesoft — if a page
+is wrong, stale or missing, send a pull request.

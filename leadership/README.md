@@ -1,25 +1,20 @@
-# MANAGEMENT TEAM
+# Leadership
 
-## CEO
-    Ibukun Olatayo Dairo
+Every division is run by one of the four leaders below, who works in it:
+the academy's tiers are taught by the people at this table, the lab's
+products carry their commits, and client escalation ends here.
 
-## CTO
-    Apata Adeoluwa David
+| Name | Role |
+| --- | --- |
+| **Ibukun Dairo, MBA** | Founder & CEO · Principal Engineer |
+| **Dr. Ayanfe Oluyomi** | Co-founder & CAIO · Managing Director, CueTA™ |
+| **Mubin Sheidu, MEng** | Co-founder & COO · Managing Director, CueHIRE™ |
+| **Olaife Olawore** | CTO · Managing Director, CueLABS™ |
 
-## CMO
-    Segun Emmanuel Adeyemi
+All four teach at CueTA™ themselves.
 
-## CRO
-    Ayanfeoluwa Beloved Oluyomi
+## Contact
 
-## COO
-    Mubin Osiforeba Sheidu
-
-## HOP/ADMIN
-    Toluwalase Olamide Adeniyi
-
-# BOARD OF DIRECTORS
-    Private information, only available to the management team.
-
-# CONTACT
-    If you would like to contact the management team. Please send an email to admin@cuesoft.io
+To reach the leadership team, email [hello@cuesoft.io](mailto:hello@cuesoft.io).
+Client escalations follow the paths in
+[client engagements](../engineering/clients/).

@@ -1,7 +1,15 @@
-# Business etiquette
+# Etiquette
 
-## TL;DR
+Etiquette is the set of unwritten rules that put the people around you at
+ease. Written down, ours are short:
 
-Business etiquette is a set of unwritten rules that guide how people behave in the workplace. Why is this important? Beyond the obvious reason — you want people to like you — having good manners helps put those around you at ease, which leads to better working relationships.
-
-Culture and expectations differ from company to company, so what's rude at one workplace may be normal at another. Hence, ask questions. The HR department has been created to serve you by providing all clarity you need about your role and deliverables.
+- Assume good intent; ask before concluding.
+- Reply to direct questions, even if the answer is "I don't know yet — will
+  come back to you by Thursday."
+- Respect timezones. We span Lagos and the US; use async messages by
+  default and mark things urgent only when they are.
+- Keep discussion in the channel where the work lives (see the
+  [communication policy](../../policies/communication/)) so context is never
+  trapped in a DM.
+- When in doubt about anything — your role, a deliverable, a norm — ask a
+  founder. Questions are free; wrong assumptions are not.

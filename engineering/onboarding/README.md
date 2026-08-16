@@ -1,9 +1,20 @@
-# ONBOARDING FOR ENGINEERS
+# Engineering Onboarding
 
-- [Go through this first](https://airtable.com/appdavgGMtMbJSyap/tblMjtgm7XPpkRcY4/viwrAhiSWWpP7kN1Y?blocks=bipfAIT59Mw3vBoOn)
-- Sign up on GitHub, (if you don't have an account already) and send your username to your CTO. He will add you to the organization account.
-- Create a Microsoft Teams account with your Cuesoft email.
-- Join the relevant groups on Teams, you will be automatically added to the channels by the HR.
-- [Working with Jira](/engineering/jira)
-- [Code Review and Practices](/engineering/code-review)
-- [Working with clients](/engineering/consulting/clients)
+After the [general onboarding](../../people/onboarding-offboarding/), an
+engineer's first week looks like this:
+
+1. **GitHub.** Send your username to the CTO for the
+   [cuesoftinc](https://github.com/cuesoftinc) organisation invite.
+2. **Read the standard.** The published
+   [engineering standard](https://github.com/cuesoftinc/oss-engineering-standards)
+   governs every repo you will touch.
+3. **Tracker.** Get onto the board for your work — Linear for client
+   engagements, GitHub Projects for the open-source products (see
+   [project management](../project-management/)).
+4. **First build.** Clone your project, get it running locally, and fix
+   whatever the README didn't warn you about — then send the README fix as
+   your first PR.
+5. **Read** [code review](../code-review/) and, if you are joining a client
+   engagement, [client engagements](../clients/).
+
+Your first PR should land in week one. Small is fine; landed is the point.
