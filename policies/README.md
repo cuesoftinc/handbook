@@ -8,6 +8,7 @@ everyone can rely on. Each policy is short enough to actually read.
 | [Confidentiality & NDA](confidentiality/) | What is confidential, and the obligations every agreement carries. |
 | [Intellectual Property](intellectual-property/) | Who owns what — internal work, client work, and the open-source products. |
 | [Data Protection](data-protection/) | How personal data is handled across NDPA, GDPR and US law. |
+| [Personnel Privacy Notice](personnel-privacy/) | What we tell you when we ask you for your own personal details. |
 | [Cybersecurity](cyber/) | Credentials, devices, storage and incident reporting. |
 | [BYOD](byod/) | Working on your own equipment. |
 | [Communication](communication/) | Which channel for what, and response expectations. |
