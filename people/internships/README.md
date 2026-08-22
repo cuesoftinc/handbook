@@ -12,8 +12,9 @@ it, the agreement governs.
   Backend Engineer) with defined duties: shipping features, reviewing code,
   collaborating across the team, documenting, and working agile ceremonies
   (sprint planning, standups).
-- **Six months.** The standard term is six (6) months from the commencement
-  date, ending automatically at term unless renewed.
+- **Three or six months.** Internships run for a three (3) or six (6) month
+  term from the commencement date, whichever the agreement states, ending
+  automatically at term unless renewed.
 - **Unpaid, data covered.** Internships are unpaid — no salary, wages or
   hourly compensation — and create no employment relationship. Cuesoft
   provides a monthly **data allowance of ₦20,000** to cover internet costs

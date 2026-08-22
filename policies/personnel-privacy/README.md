@@ -50,8 +50,9 @@ Nobody outside Cuesoft receives your next of kin details.
 
 ## How long we keep it
 
-For as long as you are engaged with us, and afterwards for the period tax and
-company-law record-keeping requires.
+For as long as you are engaged with us, and for **six years** after the
+engagement ends. That is the record-keeping window Nigerian tax and company
+law set.
 
 ## Your rights
 
