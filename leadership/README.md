@@ -7,9 +7,9 @@ products carry their commits, and client escalation ends here.
 | Name | Role |
 | --- | --- |
 | **Ibukun Dairo, MBA** | Founder & CEO · Principal Engineer |
-| **Dr. Ayanfe Oluyomi** | Co-founder & CAIO · Managing Director, CueTA™ |
-| **Mubin Sheidu, MEng** | Co-founder & COO · Managing Director, CueHIRE™ |
-| **Olaife Olawore** | CTO · Managing Director, CueLABS™ |
+| **Dr. Ayanfe Oluyomi** | Co-founder & CAIO · MD, CueTA™ |
+| **Mubin Sheidu, MEng** | Co-founder & COO · MD, CueHIRE™ |
+| **Olaife Olawore** | Founding Engineer & CTO · MD, CueLABS™ |
 
 All four teach at CueTA™ themselves.
 
