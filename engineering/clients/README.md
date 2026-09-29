@@ -8,11 +8,11 @@ working inside one.
 
 | Channel | Purpose |
 | --- | --- |
-| **WhatsApp (client group)** | Discussion with client representatives — onboarding, fast coordination and informal updates. Never credentials, never formal approvals — those belong on email. |
+| **WhatsApp (client group)** | Discussion with client representatives: onboarding, fast coordination and informal updates. Never credentials, never formal approvals: those belong on email. |
 | **Slack (internal)** | A dedicated channel per engagement for the Cuesoft team: implementation planning, sprint coordination, technical discussion. |
 | **Linear** | The system of record for the engagement's bugs, requests and sprint work. |
-| **Jira Service Management** | Today's structured intake for client bug reports and support requests, triaged into Linear. Roadmap: a WhatsApp bot that files Linear issues directly — clients prefer WhatsApp to forms, and it automates intake end to end. |
-| **Email group** | High-stakes communication. A dedicated group per engagement (the `cuehire-<client>@cuesoft.io` pattern) carries formal correspondence, approvals, access requests and sensitive matters — assigned personnel are added to it for continuity and stakeholder visibility. |
+| **Jira Service Management** | Today's structured intake for client bug reports and support requests, triaged into Linear. Roadmap: a WhatsApp bot that files Linear issues directly (clients prefer WhatsApp to forms, and it automates intake end to end). |
+| **Email group** | High-stakes communication. A dedicated group per engagement (the `cuehire-<client>@cuesoft.io` pattern) carries formal correspondence, approvals, access requests and sensitive matters: assigned personnel are added to it for continuity and stakeholder visibility. |
 | **Meetings** | Monthly coordination reviews, sprint planning where the client's input is needed, incident reviews and escalations. |
 
 ## Support levels
@@ -25,7 +25,7 @@ working inside one.
 | **Feature request** | New or changed functionality. | Reviewed and planned into two-week sprints, best-effort. |
 | **Maintenance window** | Planned deploys and infrastructure changes. | Low-traffic windows where practical, with notice for user-affecting changes. |
 
-Response targets are handling commitments, not guaranteed completion —
+Response targets are handling commitments, not guaranteed completion:
 completion depends on complexity, access, third-party dependencies and
 sprint capacity, and the engagement document is the authority.
 
@@ -33,7 +33,7 @@ sprint capacity, and the engagement document is the authority.
 
 - Ship inside the client's sprint cadence; flag risk the day you see it,
   not at review.
-- Keep the client's data confidential and inside approved systems — the
+- Keep the client's data confidential and inside approved systems: the
   [confidentiality](../../policies/confidentiality/) and
   [data-protection](../../policies/data-protection/) policies apply with
   full force.
@@ -47,4 +47,4 @@ sprint capacity, and the engagement document is the authority.
 
 Escalation ends at the founders' table: engagement lead → the division MD
 (CueHIRE™) → the CEO. Clients are told this path at onboarding, and it is
-honoured — no client should ever feel their problem has nowhere to go.
+honoured: no client should ever feel their problem has nowhere to go.

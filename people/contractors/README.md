@@ -8,9 +8,9 @@ engagements run; the signed ICA always governs.
 
 - **Scope is written.** The services, deliverables and timeline are stated
   in the agreement. Do not deviate from scope without prior written
-  approval — and do not accept scope changes informally.
+  approval, and do not accept scope changes informally.
 - **Milestone-based compensation.** The standard shape is a fixed fee paid
-  against milestones — typically a portion on execution and the balance on
+  against milestones, typically a portion on execution and the balance on
   completion, as stated in your agreement. Work commences on receipt of the
   initial payment.
 - **Timelines are commitments.** The agreed timeline is adhered to; missing
@@ -35,8 +35,8 @@ engagements run; the signed ICA always governs.
 
 ## Intellectual property
 
-Everything created in connection with the services — designs, code,
-documentation, inventions — is assigned to Cuesoft (or, on client work, to
+Everything created in connection with the services (designs, code,
+documentation, inventions) is assigned to Cuesoft (or, on client work, to
 the client per that engagement's terms). See the
 [intellectual property policy](../../policies/intellectual-property/).
 
