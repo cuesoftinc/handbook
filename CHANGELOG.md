@@ -6,6 +6,12 @@ versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Releases before 1.1.0 predate this file.
 
+## [1.1.1] - 2026-09-29
+
+### Changed
+
+- Founder titles read MD; Olaife Olawore is Founding Engineer & CTO.
+
 ## [1.1.0] - 2026-09-29
 
 ### Added
