@@ -38,6 +38,6 @@ licensee's property** — see [data protection](../data-protection/).
 
 ## Trademarks
 
-Cuesoft™, CueTA™, CueLABS™, CueHIRE™, Cueprise™, The CueShow™ and The
-CueBlog™ are Cuesoft marks. Use them exactly, with the mark, and never in a
+Cuesoft™, CueTA™, CueLABS™, CueHIRE™, Cueprise™, Cuelearn™, The CueShow™
+and The CueBlog™ are Cuesoft marks. Use them exactly, with the mark, and never in a
 way that implies endorsement of anything we have not endorsed.

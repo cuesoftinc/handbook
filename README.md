@@ -25,7 +25,9 @@ pipeline runs through everything we do:
 | [The CueBlog™](https://blog.cuesoft.io) | Writing from the team, published on Medium. |
 
 Cueprise™, our enterprise business management platform, is licensed to
-organisations under separate written agreements.
+organisations under separate written agreements. Cuelearn™, our AI-powered
+learning platform, is licensed to institutions under separate written
+agreements.
 
 ## How we work
 
@@ -33,7 +35,7 @@ organisations under separate written agreements.
   meetings; decisions get documented.
 - **Two-week sprints.** Client work runs on Linear (CueHIRE™); the
   open-source products run on GitHub Projects (CueLABS™); CueTA™ teaches
-  through Google Classroom while our own CueLearn platform is built.
+  through Google Classroom while our own Cuelearn platform is built.
 - **Senior-led.** Every division is run by a founder who works in it, and
   client escalation ends at that table.
 - **AI-native.** Agentic systems, AI automation and AI-assisted engineering
