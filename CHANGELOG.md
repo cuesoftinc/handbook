@@ -11,10 +11,12 @@ Releases before 1.1.0 predate this file.
 ### Changed
 
 - The share card is redrawn in the family design at 1200 by 628.
+- The share tags describe the card with alt text and size.
 
-### Changed
+### Added
 
-- PLACEHOLDER
+- A web manifest with the family icons.
+- The build fails when the share card is older than the design system.
 
 ## [1.1.1] - 2026-09-29
 
