@@ -13,6 +13,8 @@ Releases before 1.1.0 predate this file.
 - An llms.txt in the family shape.
 - Pull requests run the build, the design-system check and the link check.
 - Cuelearn in the list of Cuesoft platforms and marks.
+- The build fails on any em dash in source or output.
+- Datadog RUM loads on the live host with the release version.
 
 ### Changed
 
@@ -21,3 +23,4 @@ Releases before 1.1.0 predate this file.
 - Pages use the design system's stylesheet, fonts and lockups.
 - The browser icons follow the family set.
 - Cuelearn is spelled with one capital.
+- Em dashes are replaced with colons, commas and parentheses.
