@@ -1,10 +1,10 @@
 # Company Assets
 
-By default, contractors and interns work on their own equipment — see the
+By default, contractors and interns work on their own equipment: see the
 [BYOD policy](../../policies/byod/).
 
-Where Cuesoft does issue property — a device, a licence, test hardware, or
-access credentials — the terms are simple:
+Where Cuesoft does issue property (a device, a licence, test hardware, or
+access credentials), the terms are simple:
 
 - It remains Cuesoft property, documented at handover.
 - Faults are reported, not self-repaired: describe the problem to

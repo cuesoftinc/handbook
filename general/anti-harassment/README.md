@@ -12,7 +12,7 @@ to the CEO or any other founder.
 
 ## Scope
 
-This policy applies to everyone working with any Cuesoft entity — founders,
+This policy applies to everyone working with any Cuesoft entity: founders,
 contractors and interns, in every location. Because we work remotely, most
 interaction is calls, chat and written collaboration; the standard is the
 same in every medium: contribute to an inclusive, collaborative environment
@@ -27,6 +27,6 @@ local legal processes apply, they are followed.
 1. Report to the COO or [hello@cuesoft.io](mailto:hello@cuesoft.io); a
    founder not involved in the incident handles it.
 2. The facts are gathered from everyone involved, in confidence.
-3. Action follows the finding — up to and including immediate termination
+3. Action follows the finding, up to and including immediate termination
    of the engagement and, where warranted, referral to law enforcement.
    Harassment has no violation ladder and no second chance.

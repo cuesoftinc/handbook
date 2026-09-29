@@ -6,9 +6,9 @@ signed is the territory.
 
 | Engagement | Who | Governing document |
 | --- | --- | --- |
-| **Founders** | The four leaders who run the divisions and teach at CueTA™ — see [leadership](../../leadership/). | — |
-| **Independent contractors** | Specialists engaged for defined scopes of work (engineering, design, and more). | Independent Contractor Agreement — see [contractors](../contractors/) |
-| **CueLABS™ interns** | Engineers and researchers in the open-source internship programme. | Internship Agreement — see [internships](../internships/) |
+| **Founders** | The four leaders who run the divisions and teach at CueTA™: see [leadership](../../leadership/). | |
+| **Independent contractors** | Specialists engaged for defined scopes of work (engineering, design, and more). | Independent Contractor Agreement: see [contractors](../contractors/) |
+| **CueLABS™ interns** | Engineers and researchers in the open-source internship programme. | Internship Agreement: see [internships](../internships/) |
 
 ## What this means in practice
 
@@ -21,7 +21,7 @@ signed is the territory.
 - **Own taxes.** Contractors are solely responsible for their taxes and
   statutory payments on compensation received.
 - **Confidentiality and IP travel with the agreement.** Every engagement
-  carries confidentiality obligations and intellectual-property assignment —
+  carries confidentiality obligations and intellectual-property assignment:
   see the [confidentiality](../../policies/confidentiality/) and
   [intellectual property](../../policies/intellectual-property/) policies.
 - **The pathway is real, never promised.** Interns and academy learners can

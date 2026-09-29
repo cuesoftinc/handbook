@@ -1,29 +1,29 @@
 # Cybersecurity Policy
 
 Protecting our systems, our clients' data and our intellectual property is
-everyone's job — founder, contractor and intern alike.
+everyone's job: founder, contractor and intern alike.
 
 ## Authentication and access
 
-- **Strong, unique passwords** everywhere, held in a password manager —
+- **Strong, unique passwords** everywhere, held in a password manager,
   never reused across services.
 - **Two-factor authentication is mandatory** on every company account:
   email, GitHub, trackers, cloud consoles, financial systems.
 - **Least privilege.** Access is granted by role and necessity, and removed
   when the need ends.
 - **Passwords are never shared.** Not with colleagues, not with founders,
-  not with support. No legitimate Cuesoft process asks for your password —
+  not with support. No legitimate Cuesoft process asks for your password:
   treat any such request as an incident and report it.
 
 ## Credentials and secrets
 
 - Secrets (API keys, tokens, service credentials) live in the approved
-  secret manager — never in code, never in repositories, never in chat.
+  secret manager, never in code, never in repositories, never in chat.
 - **Nothing sensitive travels through WhatsApp.** Client groups are for
   coordination; credentials and access requests go through the engagement's
   formal email channel.
 - Rotations and access changes on production systems go through the
-  engagement lead — unauthorised changes are a violation.
+  engagement lead: unauthorised changes are a violation.
 
 ## Data storage
 
@@ -42,7 +42,7 @@ everyone's job — founder, contractor and intern alike.
 
 ## Threats and incidents
 
-- Be suspicious of unexpected links, attachments and urgent requests —
+- Be suspicious of unexpected links, attachments and urgent requests:
   phishing is the front door of most breaches.
 - Report suspected phishing, malware, breaches or unusual account activity
   immediately to [hello@cuesoft.io](mailto:hello@cuesoft.io). Fast reports

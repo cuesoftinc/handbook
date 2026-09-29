@@ -15,5 +15,5 @@ and more efficient project delivery.
 The mission is not a slogan; it is the company's shape. CueTA™ trains
 engineers on live AI work. CueLABS™ proves them in public, on open-source
 products anyone can audit. CueHIRE™ delivers them to companies as scoped
-builds, managed teams and direct hires. Client work funds the next cohort —
+builds, managed teams and direct hires. Client work funds the next cohort:
 the flywheel compounds.

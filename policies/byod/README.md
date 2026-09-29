@@ -12,7 +12,7 @@ What your own device must meet to touch company or client work:
 - Full-disk encryption and a lock screen.
 - The [cybersecurity policy](../cyber/) in full: 2FA on accounts, password
   manager, no company data in personal cloud storage.
-- A reliable internet connection and power arrangement — your commitments
+- A reliable internet connection and power arrangement: your commitments
   in sprints assume both.
 
 Where Cuesoft exceptionally issues equipment, the

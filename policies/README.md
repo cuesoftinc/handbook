@@ -1,12 +1,12 @@
 # Policies
 
-The goal is not volume of rules — it is a professional, ethical baseline
+The goal is not volume of rules: it is a professional, ethical baseline
 everyone can rely on. Each policy is short enough to actually read.
 
 | Policy | One line |
 | --- | --- |
 | [Confidentiality & NDA](confidentiality/) | What is confidential, and the obligations every agreement carries. |
-| [Intellectual Property](intellectual-property/) | Who owns what — internal work, client work, and the open-source products. |
+| [Intellectual Property](intellectual-property/) | Who owns what: internal work, client work, and the open-source products. |
 | [Data Protection](data-protection/) | How personal data is handled across NDPA, GDPR and US law. |
 | [Personnel Privacy Notice](personnel-privacy/) | What we tell you when we ask you for your own personal details. |
 | [Cybersecurity](cyber/) | Credentials, devices, storage and incident reporting. |
