@@ -31,8 +31,8 @@ agreements.
 
 ## How we work
 
-- **Remote, async-first.** We work across Lagos and Delaware. Writing beats
-  meetings; decisions get documented.
+- **Remote, async-first.** We work across Nigeria and the United States.
+  Writing beats meetings; decisions get documented.
 - **Two-week sprints.** Client work runs on Linear (CueHIRE™); the
   open-source products run on GitHub Projects (CueLABS™); CueTA™ teaches
   through Google Classroom while our own Cuelearn platform is built.
