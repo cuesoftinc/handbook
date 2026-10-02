@@ -27,7 +27,7 @@ engagements run; the signed ICA always governs.
   tools.
 - **Expenses.** Reasonable, necessary expenses are reimbursable **only**
   when pre-approved in writing; submit expense reports with documentation
-  within 3–5 days of incurring them.
+  within 3 to 5 days of incurring them.
 - **Confidentiality and data.** The
   [confidentiality policy](../../policies/confidentiality/) applies in full,
   and personal data you touch must be handled per the
