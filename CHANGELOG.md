@@ -6,6 +6,13 @@ versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Releases before 1.1.0 predate this file.
 
+## [1.2.8] - 2026-10-03
+
+### Changed
+
+- CI workflow follows the Cuesoft workflow standard.
+- Node version pinned in .nvmrc.
+
 ## [1.2.7] - 2026-10-03
 
 ### Changed
