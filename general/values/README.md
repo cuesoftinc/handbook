@@ -52,14 +52,14 @@ the right timeframe.
 
 ## IMPACT: what we create
 
-| Value | Meaning |
-| --- | --- |
-| **Innovation** | Curiosity and creativity, in technology, and in how we work and serve people. |
-| **Mastery** | Every task is a chance to grow; every project raises the bar. |
-| **Partnership** | With colleagues, clients, interns and communities: together we achieve more. |
-| **Accessibility** | Technology that is inclusive, simple and usable by everyone. |
-| **Capability** | Equip people and teams with the tools, training and systems to deliver. |
-| **Transformation** | Everything we ship should leave people, businesses or communities better. |
+| Value              | Meaning                                                                       |
+| ------------------ | ----------------------------------------------------------------------------- |
+| **Innovation**     | Curiosity and creativity, in technology, and in how we work and serve people. |
+| **Mastery**        | Every task is a chance to grow; every project raises the bar.                 |
+| **Partnership**    | With colleagues, clients, interns and communities: together we achieve more.  |
+| **Accessibility**  | Technology that is inclusive, simple and usable by everyone.                  |
+| **Capability**     | Equip people and teams with the tools, training and systems to deliver.       |
+| **Transformation** | Everything we ship should leave people, businesses or communities better.     |
 
 Ace, the assistant on every Cuesoft website, is named after the ACE values,
 not the playing card.

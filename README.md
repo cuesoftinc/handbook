@@ -16,13 +16,13 @@ building since 2017, incorporated in Nigeria in 2019 (Cuesoft Nigeria
 Limited) and in the United States in 2022 (Cuesoft Inc., Delaware). One
 pipeline runs through everything we do:
 
-| Property | What it is |
-| --- | --- |
-| [CueTA™](https://cueta.cuesoft.io) | Cuesoft Talent Academy: a paid AI academy taught by the founders. Learners **apply**; every application starts with a free consultation call. |
-| [CueLABS™](https://cuelabs.cuesoft.io) | Open-source Internships: interns and researchers ship production code to Apparule, Expendit and Upstat under one published engineering standard. |
-| [CueHIRE™](https://cuehire.cuesoft.io) | The Cuesoft Talent and Project Management Agency: end-to-end delivery, managed engineers and referral hiring for startups, NGOs and government. |
-| [The CueShow™](https://cueshow.cuesoft.io) | The Cuesoft podcast, on Spotify, Apple Podcasts and YouTube. |
-| [The CueBlog™](https://blog.cuesoft.io) | Writing from the team, published on Medium. |
+| Property                                   | What it is                                                                                                                                       |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [CueTA™](https://cueta.cuesoft.io)         | Cuesoft Talent Academy: a paid AI academy taught by the founders. Learners **apply**; every application starts with a free consultation call.    |
+| [CueLABS™](https://cuelabs.cuesoft.io)     | Open-source Internships: interns and researchers ship production code to Apparule, Expendit and Upstat under one published engineering standard. |
+| [CueHIRE™](https://cuehire.cuesoft.io)     | The Cuesoft Talent and Project Management Agency: end-to-end delivery, managed engineers and referral hiring for startups, NGOs and government.  |
+| [The CueShow™](https://cueshow.cuesoft.io) | The Cuesoft podcast, on Spotify, Apple Podcasts and YouTube.                                                                                     |
+| [The CueBlog™](https://blog.cuesoft.io)    | Writing from the team, published on Medium.                                                                                                      |
 
 Cueprise™, our enterprise business management platform, is licensed to
 organisations under separate written agreements. Cuelearn™, our AI-powered
