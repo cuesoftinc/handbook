@@ -4,11 +4,11 @@ Cuesoft is deliberately lean. Work gets done by three kinds of people, and
 a signed agreement governs each. This page is the map; the agreement you
 signed is the territory.
 
-| Engagement | Who | Governing document |
-| --- | --- | --- |
-| **Founders** | The four leaders who run the divisions and teach at CueTA™: see [leadership](../../leadership/). | |
-| **Independent contractors** | Specialists engaged for defined scopes of work (engineering, design, and more). | Independent Contractor Agreement: see [contractors](../contractors/) |
-| **CueLABS™ interns** | Engineers and researchers in the open-source internship programme. | Internship Agreement: see [internships](../internships/) |
+| Engagement                  | Who                                                                                              | Governing document                                                   |
+| --------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| **Founders**                | The four leaders who run the divisions and teach at CueTA™: see [leadership](../../leadership/). |                                                                      |
+| **Independent contractors** | Specialists engaged for defined scopes of work (engineering, design, and more).                  | Independent Contractor Agreement: see [contractors](../contractors/) |
+| **CueLABS™ interns**        | Engineers and researchers in the open-source internship programme.                               | Internship Agreement: see [internships](../internships/)             |
 
 ## What this means in practice
 

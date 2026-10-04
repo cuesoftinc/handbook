@@ -26,14 +26,14 @@ ID.
 
 ## Why we collect it
 
-| What | Why |
-| --- | --- |
-| Bank details, name | To pay you. This is performance of our engagement with you. |
-| Identity and engagement dates | To meet tax and company-law record-keeping obligations. |
-| Tax identification number | So we can pay you in full. Without a TIN on file we are required to withhold 10% of what we owe you and remit it, so giving us one means more of your money reaches you. |
-| Home address, phone, email | To reach you and to send anything that has to go somewhere physical. |
-| Passport photograph | Identification on internal systems and ID cards. |
-| Next of kin | To reach someone if something happens to you while you are engaged with us. Nothing else. |
+| What                          | Why                                                                                                                                                                      |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bank details, name            | To pay you. This is performance of our engagement with you.                                                                                                              |
+| Identity and engagement dates | To meet tax and company-law record-keeping obligations.                                                                                                                  |
+| Tax identification number     | So we can pay you in full. Without a TIN on file we are required to withhold 10% of what we owe you and remit it, so giving us one means more of your money reaches you. |
+| Home address, phone, email    | To reach you and to send anything that has to go somewhere physical.                                                                                                     |
+| Passport photograph           | Identification on internal systems and ID cards.                                                                                                                         |
+| Next of kin                   | To reach someone if something happens to you while you are engaged with us. Nothing else.                                                                                |
 
 Next of kin details are the one item here collected for someone else's
 benefit rather than ours. We do not contact them for any other reason, and we

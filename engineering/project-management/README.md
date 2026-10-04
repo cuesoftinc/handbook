@@ -3,11 +3,11 @@
 Work is planned in **two-week sprints**, everywhere. The tracker depends on
 the kind of work:
 
-| Work | Tracker |
-| --- | --- |
-| CueHIRE™ client engagements | **Linear**: one team/project per engagement. Client reports arrive through Jira Service Management today and are triaged into Linear; the roadmap is a WhatsApp bot filing Linear issues directly, automating intake end to end. SLAs per [client engagements](../clients/). |
-| CueLABS™ open-source products | **GitHub Projects**: boards live beside the code in the [cuesoftinc](https://github.com/cuesoftinc) org, in the open like the products. |
-| CueTA™ teaching | **Google Classroom** carries cohorts today; our own **Cuelearn** platform is being built to replace it. |
+| Work                          | Tracker                                                                                                                                                                                                                                                                      |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CueHIRE™ client engagements   | **Linear**: one team/project per engagement. Client reports arrive through Jira Service Management today and are triaged into Linear; the roadmap is a WhatsApp bot filing Linear issues directly, automating intake end to end. SLAs per [client engagements](../clients/). |
+| CueLABS™ open-source products | **GitHub Projects**: boards live beside the code in the [cuesoftinc](https://github.com/cuesoftinc) org, in the open like the products.                                                                                                                                      |
+| CueTA™ teaching               | **Google Classroom** carries cohorts today; our own **Cuelearn** platform is being built to replace it.                                                                                                                                                                      |
 
 ## The sprint
 
