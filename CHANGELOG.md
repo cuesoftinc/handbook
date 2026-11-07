@@ -6,6 +6,17 @@ versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Releases before 1.1.0 predate this file.
 
+## [1.2.13] - 2026-11-07
+
+### Changed
+
+- Design system updated to 1.49.0.
+- The footer link to cuesoft.io reads Cuesoft: the company.
+
+### Fixed
+
+- The theme loads before first paint with no flash.
+
 ## [1.2.12] - 2026-10-05
 
 ### Fixed
