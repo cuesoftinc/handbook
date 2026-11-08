@@ -10,7 +10,7 @@ Releases before 1.1.0 predate this file.
 
 ### Changed
 
-- Design system updated to 1.50.2.
+- Design system updated to 1.51.0.
 - The footer link to cuesoft.io reads Cuesoft: the company.
 
 ### Fixed
