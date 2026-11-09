@@ -42,7 +42,7 @@ agreements.
   are standard practice, in client work, in the curriculum, and in our own
   tooling.
 
-## Changing this handbook
+## Changing This Handbook
 
 The handbook lives in a public git repository. Anyone working with Cuesoft
 may propose a change by pull request; a founder approves and merges. Every
