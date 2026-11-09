@@ -9,7 +9,7 @@ the kind of work:
 | CueLABS™ open-source products | **GitHub Projects**: boards live beside the code in the [cuesoftinc](https://github.com/cuesoftinc) org, in the open like the products.                                                                                                                                      |
 | CueTA™ teaching               | **Google Classroom** carries cohorts today; our own **Cuelearn** platform is being built to replace it.                                                                                                                                                                      |
 
-## The sprint
+## The Sprint
 
 1. **Planning.** At sprint start, the lead and the team select the sprint's
    issues by business impact, severity and capacity. A sprint is a
@@ -24,7 +24,7 @@ the kind of work:
    deployed to the target environment and verified, not when the code is
    written.
 
-## Issue hygiene
+## Issue Hygiene
 
 - Titles state the outcome ("Applications page 500s on empty phone"), not
   the activity ("look into bug").
@@ -33,7 +33,7 @@ the kind of work:
 - Epics/projects group large bodies of work; break them into issues small
   enough to finish within a sprint.
 
-## Capacity honesty
+## Capacity Honesty
 
 There are roughly twenty-six sprints in a year, and a sprint holds what it
 holds. When requests exceed capacity, we prioritise with the client or the

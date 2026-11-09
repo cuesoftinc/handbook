@@ -1,6 +1,6 @@
 # Anti-Harassment Policy
 
-## The short version
+## The Short Version
 
 Sexual harassment, hate speech, discrimination, bullying and workplace
 violence end your engagement with Cuesoft immediately. Where the conduct is

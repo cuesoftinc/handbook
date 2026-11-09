@@ -19,7 +19,7 @@ exactly those expectations, in writing.
   review, gathers peer input where the work was collaborative, shares it in
   writing, and hears the intern's own reflection before it is filed.
 
-## Contractors: milestone acceptance, not reviews
+## Contractors: Milestone Acceptance, Not Reviews
 
 Contractors are independent professionals, so there is no performance
 review; there is **acceptance of deliverables** against the signed
