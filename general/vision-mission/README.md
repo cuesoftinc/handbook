@@ -10,7 +10,7 @@ types of businesses.
 Build a talent development and management pipeline enabling faster hiring
 and more efficient project delivery.
 
-## The pipeline
+## The Pipeline
 
 The mission is not a slogan; it is the company's shape. CueTA™ trains
 engineers on live AI work. CueLABS™ proves them in public, on open-source

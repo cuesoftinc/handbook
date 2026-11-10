@@ -4,7 +4,7 @@ Independent contractors are engaged for a defined scope of work under an
 Independent Contractor Agreement (ICA). This page summarises how those
 engagements run; the signed ICA always governs.
 
-## The engagement
+## The Engagement
 
 - **Scope is written.** The services, deliverables and timeline are stated
   in the agreement. Do not deviate from scope without prior written
@@ -17,7 +17,7 @@ engagements run; the signed ICA always governs.
   milestones without reasonable justification is a material breach of the
   agreement, not just a scheduling problem.
 
-## Your responsibilities
+## Your Responsibilities
 
 - **Independence.** You are not an employee, agent or representative of
   Cuesoft, and you cannot bind the company to anything.
@@ -33,14 +33,14 @@ engagements run; the signed ICA always governs.
   and personal data you touch must be handled per the
   [data-protection policy](../../policies/data-protection/).
 
-## Intellectual property
+## Intellectual Property
 
 Everything created in connection with the services (designs, code,
 documentation, inventions) is assigned to Cuesoft (or, on client work, to
 the client per that engagement's terms). See the
 [intellectual property policy](../../policies/intellectual-property/).
 
-## Ending an engagement
+## Ending an Engagement
 
 Either side may terminate with 30 days' written notice (or as your
 agreement states). On termination: stop work, hand over all work product and
