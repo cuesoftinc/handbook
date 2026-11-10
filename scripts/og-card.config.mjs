@@ -6,7 +6,6 @@ const CARD = {
   eyebrow: 'Cuesoft · Reimagine software',
   headline: 'The Cuesoft Handbook',
   sub: 'How Cuesoft works, written down.',
-  cta: null,
   destination: 'handbook.cuesoft.io',
   alt: 'The Cuesoft Handbook: how Cuesoft works, written down. handbook.cuesoft.io',
 };
