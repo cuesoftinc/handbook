@@ -6,7 +6,7 @@ applicable **US state privacy laws**. The public-facing commitments live in
 the [privacy policy](https://privacy.cuesoft.io); this page is the internal
 duty of care for everyone who works with us.
 
-## The Rules of the Road
+## The rules of the road
 
 - **Minimum necessary.** Collect and access only the personal data your
   work actually needs. Applicant, learner and client data is looked at for
@@ -35,7 +35,7 @@ Nigeria Data Protection Commission within **72 hours**, and affected people
 must be informed where their rights are at risk. Your fast report is what
 makes the company's lawful response possible.
 
-## Rights Requests
+## Rights requests
 
 If anyone asks you about their personal data (access, correction,
 deletion), do not handle it ad hoc. Forward the request to

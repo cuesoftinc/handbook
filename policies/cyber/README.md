@@ -3,7 +3,7 @@
 Protecting our systems, our clients' data and our intellectual property is
 everyone's job: founder, contractor and intern alike.
 
-## Authentication and Access
+## Authentication and access
 
 - **Strong, unique passwords** everywhere, held in a password manager,
   never reused across services.
@@ -15,7 +15,7 @@ everyone's job: founder, contractor and intern alike.
   not with support. No legitimate Cuesoft process asks for your password:
   treat any such request as an incident and report it.
 
-## Credentials and Secrets
+## Credentials and secrets
 
 - Secrets (API keys, tokens, service credentials) live in the approved
   secret manager, never in code, never in repositories, never in chat.
@@ -25,14 +25,14 @@ everyone's job: founder, contractor and intern alike.
 - Rotations and access changes on production systems go through the
   engagement lead: unauthorised changes are a violation.
 
-## Data Storage
+## Data storage
 
 - Confidential files and client data live only in approved company systems.
   Personal cloud accounts and personal USB storage are prohibited for
   company data.
 - Sensitive data is encrypted in storage and in transit.
 
-## Devices and Networks
+## Devices and networks
 
 - Keep your work device's OS patched, disk encrypted, screen locked, and
   protected with up-to-date security tooling (see [BYOD](../byod/)).
@@ -40,7 +40,7 @@ everyone's job: founder, contractor and intern alike.
 - A lost or stolen device that touched company or client data is reported
   **immediately** so access can be revoked.
 
-## Threats and Incidents
+## Threats and incidents
 
 - Be suspicious of unexpected links, attachments and urgent requests:
   phishing is the front door of most breaches.
