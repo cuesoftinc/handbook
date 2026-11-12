@@ -54,7 +54,7 @@ For as long as you are engaged with us, and for **six years** after the
 engagement ends. That is the record-keeping window Nigerian tax and company
 law set.
 
-## Your Rights
+## Your rights
 
 Under the Nigeria Data Protection Act 2023 you can ask what we hold about
 you, ask us to correct it, and ask us to delete it where we have no

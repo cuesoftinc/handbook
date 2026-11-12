@@ -6,7 +6,7 @@ with a supervisor and a real review bar. The git log is the CV. Each
 internship runs under a signed Internship Agreement; this page summarises
 it, the agreement governs.
 
-## The Shape of an Internship
+## The shape of an internship
 
 - **Role-based.** Interns are engaged into a specific role (for example
   Backend Engineer) with defined duties: shipping features, reviewing code,
@@ -25,7 +25,7 @@ it, the agreement governs.
   feedback through reviews and the cadence in
   [performance reviews](../performance-review/).
 
-## Obligations That Come with It
+## Obligations that come with it
 
 - **Confidentiality (NDA).** The agreement carries a full NDA over source
   code, business plans, client information and everything else non-public.
@@ -40,7 +40,7 @@ it, the agreement governs.
   written notice. On exit, return company property and cease using
   company-provided access and credentials.
 
-## After the Internship
+## After the internship
 
 The pathway (learn at CueTA™, build at CueLABS™, go forward through
 CueHIRE™) is real, and interns with strong records are recommended into
