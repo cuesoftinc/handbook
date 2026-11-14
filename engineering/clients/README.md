@@ -4,7 +4,7 @@ CueHIRE™ engagements run on a written proposal or agreement that states
 scope, capacity and terms. This page is the operating manual for everyone
 working inside one.
 
-## Communication Channels
+## Communication channels
 
 | Channel                     | Purpose                                                                                                                                                                                                                                                                |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@ working inside one.
 | **Email group**             | High-stakes communication. A dedicated group per engagement (the `cuehire-<client>@cuesoft.io` pattern) carries formal correspondence, approvals, access requests and sensitive matters: assigned personnel are added to it for continuity and stakeholder visibility. |
 | **Meetings**                | Monthly coordination reviews, sprint planning where the client's input is needed, incident reviews and escalations.                                                                                                                                                    |
 
-## Support Levels
+## Support levels
 
 | Category                       | What it means                                              | Handling                                                                                                                        |
 | ------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ Response targets are handling commitments, not guaranteed completion:
 completion depends on complexity, access, third-party dependencies and
 sprint capacity, and the engagement document is the authority.
 
-## The Engineer's Duties on a Client Project
+## The engineer's duties on a client project
 
 - Ship inside the client's sprint cadence; flag risk the day you see it,
   not at review.

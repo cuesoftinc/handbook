@@ -16,7 +16,7 @@ If information is marked confidential, it is. If its nature or the
 circumstances of disclosure make it obviously confidential, it is. If you
 are unsure, ask **before** sharing, never after.
 
-## Your Obligations
+## Your obligations
 
 - Hold confidential information in strict confidence and handle it with the
   same care we use ourselves.

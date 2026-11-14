@@ -4,7 +4,7 @@ Everything we ship is reviewed. The published
 [engineering standard](https://github.com/cuesoftinc/oss-engineering-standards)
 is the authority; this page is the working summary.
 
-## The Flow
+## The flow
 
 - Work on a branch named for the work: `feature/login`, `bug/login-fix`.
 - Push work in progress up regularly: a pushed branch is a backed-up
@@ -16,7 +16,7 @@ is the authority; this page is the working summary.
 - Review others' work the way you want yours reviewed: specific, kind, and
   about the code.
 
-## The Basics That Never Change
+## The basics that never change
 
 - No debug prints in production code: use a proper logger.
 - No commented-out code in a PR. Comments explain constraints; dead code
