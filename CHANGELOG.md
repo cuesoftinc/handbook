@@ -8,6 +8,12 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+## [1.2.15] - 2026-11-16
+
+### Changed
+
+- Design system updated to 1.78.0.
+
 ## [1.2.14] - 2026-11-16
 
 ### Changed
