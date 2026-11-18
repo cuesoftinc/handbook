@@ -7,7 +7,7 @@ exactly those expectations, in writing.
 ## Interns
 
 - **Cadence:** a mid-term review and an end-of-term review across the
-  six-month internship, plus continuous feedback in code review and sprints.
+  internship term (three or six months), plus continuous feedback in code review and sprints.
 - **Evaluated on:** quality of shipped work and attention to detail,
   timeliness against sprint commitments, collaboration and communication,
   initiative and growth: the ACE values, made measurable.
