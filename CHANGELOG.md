@@ -10,6 +10,14 @@ Releases before 1.1.0 predate this file.
 
 ### Added
 
+- Storefront joins the list of properties.
+
+### Changed
+
+- CueTA says learners enrol in a course and subscribe.
+- Teaching runs through Cuelearn, our own platform.
+- Mission and communication pages say learners, not cohorts.
+- Performance reviews follow the three or six month internship.
 - The handbook asks before loading Google Analytics, and loads it only after you accept.
 
 ## [1.2.15] - 2026-11-16
