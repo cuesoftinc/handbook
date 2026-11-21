@@ -14,6 +14,7 @@ Releases before 1.1.0 predate this file.
 
 ### Changed
 
+- Design system updated to 1.96.0.
 - CueTA says learners enrol in a course and subscribe.
 - Teaching runs through Cuelearn, our own platform.
 - Mission and communication pages say learners, not cohorts.
