@@ -27,3 +27,51 @@ agreement. At each milestone and at engagement end, the engagement lead
 records in writing whether the deliverable met the agreed scope, timeline
 and handover quality. That record feeds renewal, extension or expansion of
 engagements, based on delivered value, never favouritism.
+
+## More detail
+
+### Who this applies to
+
+CueLABS™ interns, who are reviewed, and independent contractors, whose
+deliverables are accepted against the agreement. Founders are not reviewed
+under this page.
+
+### Fair and in writing
+
+- A review is based on the expectations set at the start of the period and
+  on the work itself, never on a protected characteristic: see
+  [diversity, inclusion and equality](../../policies/diversity/).
+- Reviews and acceptance records are written by people and shared with the
+  person concerned.
+- A review is not a disciplinary step. Violations are handled separately
+  under [violations](../violation/), and a good review does not cancel one.
+
+### Your response and a second look
+
+- You can add your own response to a review or an acceptance record, and it
+  is filed with it.
+- If you think a review or an acceptance decision is unfair, wrong or
+  discriminatory, you can ask a founder who was not involved to look at it
+  again: see [how to report a concern](../../policies/#reporting-a-concern).
+  No one is penalised for doing so in good faith.
+
+<!-- TODO(owner): whether there is a time limit or a named reviewer for a second look -->
+
+### Confidentiality and records
+
+Reviews and acceptance records are confidential to the person, the reviewer
+and the founders who need them. They contain personal data, so they are
+handled under the [data-protection policy](../../policies/data-protection/)
+and the [personnel privacy notice](../../policies/personnel-privacy/), and
+they are kept for the periods in the privacy policy's
+[retention page](https://privacy.cuesoft.io/handling/retention/): personnel
+records are kept for the engagement and six years after it ends.
+
+### What a review promises
+
+A review, a recommendation or a clean exit is a record, not a promise of
+employment, a placement or a salary: see
+[engagement types](../engagement-types/). It does not change the terms of a
+signed agreement, which prevails where they differ, along with local law.
+This page changes the way the handbook does: see
+[changing a policy](../../policies/#changing-a-policy).
