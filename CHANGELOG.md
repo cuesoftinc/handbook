@@ -8,6 +8,11 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+### Changed
+
+- The site index sits in the same place on every phone page.
+- Policies now cover reporting, non-retaliation, reviews, outside work and leaving.
+
 ## [1.2.17] - 2026-11-22
 
 ### Changed
