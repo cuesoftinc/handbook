@@ -8,6 +8,8 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+## [1.2.16] - 2026-11-22
+
 ### Added
 
 - Storefront joins the list of properties.
@@ -20,6 +22,7 @@ Releases before 1.1.0 predate this file.
 - Mission and communication pages say learners, not cohorts.
 - Performance reviews follow the three or six month internship.
 - The handbook asks before loading Google Analytics, and loads it only after you accept.
+- Design system updated to 1.97.0.
 
 ## [1.2.15] - 2026-11-16
 
