@@ -54,8 +54,8 @@ under this page.
   discriminatory, you can ask a founder who was not involved to look at it
   again: see [how to report a concern](../../policies/#reporting-a-concern).
   No one is penalised for doing so in good faith.
-
-<!-- TODO(owner): whether there is a time limit or a named reviewer for a second look -->
+- Ask for a second look within **14 days** of the decision. A founder who
+  was not involved reviews it and answers you within **14 days**.
 
 ### Confidentiality and records
 

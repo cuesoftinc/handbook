@@ -45,7 +45,8 @@ access while facts are gathered: see
 [what happens after a report](../../policies/#what-happens-after-a-report).
 A person who thinks a decision is wrong can ask a founder who was not
 involved to look at it again, and can add their own account to the record.
-<!-- TODO(owner): whether a review of a decision has a time limit or a named reviewer -->
+Ask for that review within **14 days** of the decision. A founder who was not
+involved reviews it and answers you within **14 days**.
 
 ## Non-retaliation and false reports
 

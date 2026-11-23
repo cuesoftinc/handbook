@@ -58,7 +58,8 @@ Cuesoft, and Cuesoft may keep the messages in them for as long as the work
 needs and the law requires. Messages that hold personal data are kept as the
 privacy policy's [retention page](https://privacy.cuesoft.io/handling/retention/)
 says.
-<!-- TODO(owner): how long company channels keep messages and who can read them, including private messages; the handbook does not say Cuesoft monitors these channels -->
+We do not read private messages. Admins read the records of a company
+channel only to investigate a security or conduct issue.
 
 ## Reporting a concern, consequences, law and changes
 

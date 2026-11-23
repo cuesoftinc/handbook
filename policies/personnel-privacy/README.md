@@ -21,8 +21,9 @@ state and country, your tax identification number, a passport photograph, your
 next of kin's name, relationship to you and phone number, and your bank account
 details.
 
-We do not ask for your NIN, your passport number, or a scan of any government
-ID.
+We do not ask for your NIN or your passport number. The one identity document
+we ask for is the copy the account site's identity check takes, described
+below.
 
 ## Why we collect it
 
@@ -65,7 +66,7 @@ commits to.
 
 ## Interns
 
-Your data stipend is processed the same way as any other payment, so
+Your data allowance is processed the same way as any other payment, so
 everything above applies to you in the same terms.
 
 ## Who this notice applies to
@@ -113,7 +114,14 @@ safeguards on the privacy policy's
 [transfers page](https://privacy.cuesoft.io/handling/transfers/), and the
 [security page](https://privacy.cuesoft.io/handling/security/) describes our
 safeguards. We do not sell personal data.
-<!-- TODO(owner): confirm the processors for personnel data are bound by data processing agreements, and whether the personnel platform at account.cuesoft.io holds the same records as Airtable -->
+
+Brevo's data processing terms are part of its terms of service. Intuit's
+QuickBooks terms point to a QuickBooks data processing agreement. Airtable's
+data processing addendum binds only once it is signed. The account site at
+account.cuesoft.io is Cuesoft's own platform. It also holds the details you
+enter there: your profile, work history, payout bank details and identity
+check.
+<!-- TODO(owner): whether Airtable's data processing addendum has been signed -->
 
 ## Keeping and deleting it
 

@@ -49,8 +49,8 @@ in this handbook and to the
   mistaken. Reporting a concern to Cuesoft never stops you from also
   telling the police, a regulator or a court.
 
-<!-- TODO(owner): how quickly a report is acknowledged, and whether a named
-person other than the COO and the founders also receives reports -->
+We acknowledge every report within **5 working days**. Only the COO and the
+founders receive reports.
 
 ### What happens after a report
 
@@ -117,8 +117,9 @@ Policies change the way the handbook changes: anyone working with Cuesoft
 may propose a change by pull request, and a founder approves and merges it.
 Every page shows when it last changed, and the public git history shows
 what changed. A change never reduces what a signed agreement gives you.
-<!-- TODO(owner): how and when people working with Cuesoft are told about a
-material change to a policy -->
+We email a material change to everyone working with Cuesoft at least
+**14 days** before it takes effect, and the page states the date it takes
+effect.
 
 ### A note on length
 
