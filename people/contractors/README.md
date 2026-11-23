@@ -61,7 +61,11 @@ termination.
   part of an independent engagement, unless your signed agreement says so.
 - Your taxes are your own, as set out under your responsibilities above.
 
-<!-- TODO(owner): whether the ICA addresses tax withholding on contractor payments beyond the contractor's own responsibility, and for contractors in Nigeria versus abroad -->
+If we have no tax identification number on file for you, we withhold 10% of
+what we owe you and remit it: see the
+[personnel privacy notice](../../policies/personnel-privacy/).
+Cuesoft withholds tax only where Nigerian law requires it for a contractor in
+Nigeria, and says so on the payment.
 
 ### Confidentiality, data and security
 
@@ -101,12 +105,16 @@ or open-source material, with its licence.
   candidate in connection with Cuesoft work without telling a founder.
 - Declaring a conflict is never a violation. Not declaring one can be.
 - This page does not otherwise limit what you do outside the engagement.
-
-<!-- TODO(owner): any restriction on outside work, competing work, exclusivity or a notice requirement set by the ICA -->
+- Outside work is allowed. Do not work for a direct competitor of Cuesoft
+  without our written approval, and tell us about anything that could
+  conflict with your work for Cuesoft.
 
 ### Non-solicitation
 
-<!-- TODO(owner): whether the ICA restricts soliciting Cuesoft's clients, learners, interns or other contractors, and for how long; no restriction is stated here until the owner confirms -->
+For **12 months** after your engagement ends, do not solicit, or try to take
+away, a Cuesoft client, learner, intern or contractor you worked with during
+the engagement. There is no non-compete: once the engagement ends, you may
+work for anyone. Where your signed agreement says otherwise, it prevails.
 
 The signed agreement governs any restriction on soliciting clients or
 people. This page adds none.

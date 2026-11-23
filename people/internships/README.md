@@ -64,11 +64,10 @@ wherever they differ.
   or representative of Cuesoft and cannot bind it.
 - The monthly data allowance is a contribution to connectivity cost, as the
   agreement states. It is not pay.
-
-<!-- TODO(owner): whether the data allowance has any tax treatment or reporting obligation for interns -->
-
 - Taxes, if any arise for you, are your own: see
-  [engagement types](../engagement-types/).
+  [engagement types](../engagement-types/). Cuesoft withholds tax only where
+  Nigerian law requires it for a contractor in Nigeria, so nothing is
+  withheld from the data allowance.
 
 ### Confidentiality, data and security
 
@@ -107,12 +106,16 @@ look like it conflicts, with your internship: for example work for a
 competitor of a product you are shipping, or a personal relationship with a
 person deciding on your work. Do not use Cuesoft or client confidential
 information for outside work. Declaring a conflict is never a violation.
-<!-- TODO(owner): any restriction on outside work, study or other internships while an internship runs -->
+Outside work is allowed. Do not work for a direct competitor of Cuesoft
+without our written approval, and tell us about anything that could conflict
+with your work for Cuesoft.
 
 ### Non-solicitation
 
-No non-solicitation restriction is stated here: the signed agreement governs.
-<!-- TODO(owner): any non-solicitation term in the Internship Agreement -->
+For **12 months** after your engagement ends, do not solicit, or try to take
+away, a Cuesoft client, learner, intern or contractor you worked with during
+the engagement. There is no non-compete: once the engagement ends, you may
+work for anyone. Where your signed agreement says otherwise, it prevails.
 
 ### Equipment
 

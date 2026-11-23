@@ -83,7 +83,13 @@ This policy does not authorise Cuesoft to look into your personal device,
 your personal accounts or your personal messages. Company accounts and the
 data in them belong to Cuesoft, so use them on the footing that the company
 can review what is held in them.
-<!-- TODO(owner): confirm what is monitored or logged on company systems, who can see it, and how long it is kept; the handbook does not say Cuesoft monitors, so correct or remove this section to match -->
+
+We do not install monitoring or device-management software on your device,
+we do not use remote wipe, and we do not run a tool that watches your
+screen, your browsing or your keystrokes. We keep security logs only. Google Workspace, GitHub and our cloud services
+keep their standard security and audit logs, and Datadog keeps the logs our
+own systems write for 15 days. Admins read these logs only to investigate a
+security or conduct issue. We do not read private messages.
 
 ## Lost or stolen devices and credentials
 

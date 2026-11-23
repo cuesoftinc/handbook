@@ -35,7 +35,12 @@ account, credential and key issued in Cuesoft's name, and the data on them.
 
 Company-issued devices and accounts belong to Cuesoft, so use them on the
 footing that the company can review what is held in them.
-<!-- TODO(owner): confirm what is monitored or logged on company-issued devices and accounts; the handbook does not say Cuesoft monitors, so correct or remove this to match -->
+
+We do not install monitoring or device-management software on a
+company-issued device, and we do not use remote wipe. We keep security logs only. Google Workspace, GitHub and our cloud services
+keep their standard security and audit logs, and Datadog keeps the logs our
+own systems write for 15 days. Admins read these logs only to investigate a
+security or conduct issue. We do not read private messages.
 
 ## Lost, stolen or damaged property
 
@@ -54,8 +59,8 @@ is not held against you. Ordinary wear is not a fault.
   to. We remove company data and revoke access.
 - Access, licences and credentials end with the engagement: see
   [onboarding and offboarding](../onboarding-offboarding/).
-
-<!-- TODO(owner): how returns are shipped or handed over and who covers the cost -->
+- Return property in person in Lagos, or by a courier that Cuesoft books
+  and pays for.
 
 ## Liability
 

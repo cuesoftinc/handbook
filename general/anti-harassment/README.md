@@ -115,8 +115,6 @@ and is handled under [violations](../../people/violation/).
 - You may go to the police, a regulator or a court at any point. We do not
   need to finish first, and we will cooperate.
 
-<!-- TODO(owner): any counselling, helpline or legal support to point people to -->
-
 ## Interim measures
 
 While facts are gathered, a founder who is not involved may suspend the

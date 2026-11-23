@@ -45,7 +45,13 @@ This policy does not authorise Cuesoft to look into your personal device,
 your personal accounts or your personal messages. Company accounts and the
 data in them belong to Cuesoft, so use them on the footing that the company
 can review what is held in them.
-<!-- TODO(owner): confirm what Cuesoft monitors or logs on company systems and accounts, and whether any device-management or monitoring tool is used; remove or correct this section to match -->
+
+We do not install monitoring or device-management software on your device,
+we do not use remote wipe, and we do not run a tool that watches your
+screen, your browsing or your keystrokes. We keep security logs only. Google Workspace, GitHub and our cloud services
+keep their standard security and audit logs, and Datadog keeps the logs our
+own systems write for 15 days. Admins read these logs only to investigate a
+security or conduct issue. We do not read private messages.
 
 ## Lost, stolen or compromised devices
 
@@ -71,7 +77,8 @@ When your engagement ends, or earlier if we ask:
 - Confidentiality continues after you have removed the data: see the
   [confidentiality policy](../confidentiality/).
 
-<!-- TODO(owner): whether any remote wipe of company data on a personal device is used, and the consent it needs -->
+We do not use remote wipe on a personal device. When a device is lost, we
+revoke access to company and client systems instead.
 
 ## Responsibility for your own device
 

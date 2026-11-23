@@ -82,8 +82,11 @@ The programme and engagement terms set what is yours. For interns, work
 created outside the internship's scope, on your own time and equipment, is
 not assigned: see the
 [CueLABS™ terms](https://terms.cuesoft.io/divisions/cuelabs/). For
-contractors and everyone else, the signed agreement says.
-<!-- TODO(owner): how the ICA treats contractors' work created outside the engagement scope, and moral rights or attribution wording -->
+contractors, work you create outside the engagement's scope, without
+Cuesoft's time or materials, stays yours. Work created in connection with
+the engagement is Cuesoft's, and you waive your moral rights in it where the
+law allows. You may list engagement work in your portfolio unless it is
+confidential. For everyone else, the signed agreement says.
 
 ## Reporting an infringement or a concern
 

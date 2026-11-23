@@ -45,30 +45,34 @@ and [internships](../internships/).
   unless the signed agreement says so.
 - Only the founders may sign, promise or pay anything on Cuesoft's behalf.
   If someone tells you otherwise, ask a founder.
-- Founders follow the same policies as everyone else.
-
-<!-- TODO(owner): the document or arrangement that governs each founder's own engagement -->
+- Founders follow the same policies as everyone else. Each founder's own
+  engagement is set by their founder or shareholder agreement with Cuesoft
+  Inc.
 
 ### Taxes
 
 Contractors are solely responsible for their own taxes and statutory
 payments, as the [contractors](../contractors/) page says. For interns, the
 [internships](../internships/) page and the agreement state what is paid and
-what is not.
-<!-- TODO(owner): tax and statutory obligations of interns on the data allowance, if any -->
+what is not, and interns handle their own tax too. Cuesoft withholds tax only
+where Nigerian law requires it for a contractor in Nigeria, and says so on the
+payment.
 
 ### Conflicts of interest and outside work
 
 Declare a conflict of interest to a founder before you take on the conflicting
 work, and never use Cuesoft or client information, accounts or time for
 outside work: see [contractors](../contractors/). Interns do the same.
-<!-- TODO(owner): any restriction on outside work or competing work for contractors and interns -->
+Outside work is allowed. Do not work for a direct competitor of Cuesoft
+without our written approval, and tell us about anything that could conflict
+with your work for Cuesoft.
 
 ### Non-solicitation
 
-No non-solicitation restriction is stated in this handbook. The signed
-agreement governs.
-<!-- TODO(owner): any non-solicitation or non-compete term, and its duration -->
+For **12 months** after your engagement ends, do not solicit, or try to take
+away, a Cuesoft client, learner, intern or contractor you worked with during
+the engagement. There is no non-compete: once the engagement ends, you may
+work for anyone. Where your signed agreement says otherwise, it prevails.
 
 ### Equipment
 
@@ -83,6 +87,11 @@ revoked, work and materials are handed over, property is returned, and
 confidentiality and IP assignment continue: see
 [onboarding and offboarding](../onboarding-offboarding/). Severe misconduct
 ends an engagement immediately: see [violations](../violation/).
+
+On request, the COO gives a written reference that confirms your dates, role
+and the work you did. A fuller reference is given only with your consent. A
+CueLABS™ intern's reference is written by their supervisor, as the
+[CueLABS™ terms](https://terms.cuesoft.io/divisions/cuelabs/) say.
 
 ### Concerns, records, law and changes
 
