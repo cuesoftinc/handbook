@@ -8,6 +8,8 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+## [1.2.20] - 2026-11-24
+
 ### Changed
 
 - The dash check allows one explaining dash and rejects paired asides.
